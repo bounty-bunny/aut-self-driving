@@ -1,0 +1,7 @@
+
+## Running the Simulation
+Run the simulation with:
+- Python 3.x
+- NumPy
+- OpenCV
+- Matplotlib
